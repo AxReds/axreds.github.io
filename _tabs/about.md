@@ -6,7 +6,7 @@ order: 4
 
 # Alessio Rorssini
 
-As the Program Director at Microsoft, I am a highly experienced and goal-driven professional responsible for leading the deployment of Cloud projects as part of the Industry Solutions team at worldwide organizations. 
+As Program Director at Microsoft, I am a highly experienced and goal-driven professional responsible for leading the deployment of Cloud projects as part of the Industry Solutions team at worldwide organizations. 
 
 With over 30 years of experience in the IT market, particularly in customer-facing roles, I have a strong track record of success in complex deals and working with top customers across a variety of industries. I have spent the past 20 years at Microsoft Services, where I have held various consulting positions, including Partner Strategy Consultant, Project Manager, Program Manager, and Engagement Manager. 
 
