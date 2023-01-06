@@ -1,3 +1,10 @@
+---
+title: Monitoring the Raspberry Pi CPU Temperature with MQTT
+date: 2023-01-05 16:28:00
+categories: [homelab,raspberry]
+tags: [coding,raspebrry,temperature,python,mqtt]
+---
+
 # Monitoring the Raspberry Pi CPU Temperature with MQTT
 
 The Raspberry Pi is a small, affordable, and incredibly popular single-board computer that is widely used for a variety of purposes. One thing that is important to consider when using a Raspberry Pi is the temperature of its CPU. If the CPU gets too hot, it can lead to performance issues and even hardware damage.
